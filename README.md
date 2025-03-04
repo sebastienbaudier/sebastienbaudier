@@ -58,7 +58,7 @@ In my free time, I enjoy playing tennis, running, cross-country skiing, spending
 <h2></h2>
 <br>
 
-<span style="font-size: 16px;"> 📫 Feel free to reach me at [sebastien.baudier@psi.ch](sebastien.baudier@psi.ch) ! 😄
+<span style="font-size: 16px;"> 📫 Feel free to reach me at [sebastien.baudier@polytechnique.fr](sebastien.baudier@polytechnique.fr) ! 😄
 </span>
 
 <br>
